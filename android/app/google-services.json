@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595969269639",
+    "project_id": "munasbati-e8b45",
+    "storage_bucket": "munasbati-e8b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595969269639:android:c98c989b91780ed0757d22",
+        "android_client_info": {
+          "package_name": "com.example.munasbati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595969269639-98kl678slnb3jos78jbrvclf2g23pbut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKtBnC38zzwJumKRF43QSQMp9gMyqG0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595969269639-98kl678slnb3jos78jbrvclf2g23pbut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
